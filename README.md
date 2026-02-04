@@ -232,12 +232,11 @@ This project runs on **port 4545**.
 This project helped me build a foundation.  
 Next topics I plan to learn:
 
-- JWT authentication  
-- Stateless APIs  
-- OAuth2 (Google login)  
-- Method-level security  
-- CSRF & CORS  
-- OWASP security basics  
+- [ ] Custom login page design
+- [ ] JWT token authentication
+- [ ] OAuth2 integration
+- [ ] Password reset functionality
+- [ ] Multi-factor authentication 
 
 ---
 
@@ -267,7 +266,7 @@ That’s how I learned — and I’m still learning
 
 ---
 
-**Built while learning by Som Gupta ❤️**
+**Built while learning by Som Gupta**
 
 ⭐ If this repository helps you understand Spring Security, feel free to star it!
 
