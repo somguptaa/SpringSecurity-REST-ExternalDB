@@ -266,7 +266,7 @@ That’s how I learned — and I’m still learning
 
 ---
 
-**Built while learning by Som Gupta**
+**Built while learning Spring Security by Som Gupta**
 
 ⭐ If this repository helps you understand Spring Security, feel free to star it!
 
